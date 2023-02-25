@@ -1,0 +1,63 @@
+h3{font-family: sans-serif;
+font-style:oblique;
+text-decoration: underline dotted}
+
+body{background-color:rgb(229, 143, 143);
+}
+textarea{width: 100%;}
+.Ptitle{ text-align: center;}
+.me{margin-right: auto;
+    margin-left: auto;
+    display:block;
+    width: 20%;
+    margin-bottom: 50px;
+    margin-top: 50px;;}
+
+.about{font-weight: 30px;
+background-color: rgb(235, 243, 243);
+border-radius: 2px;
+padding: 2px;
+text-align: left;}
+.work{font-weight: 30px;
+background-color: rgb(223, 198, 238);
+padding-bottom: 2%;}
+.contact{font-weight: 30px;}
+
+.thumb{display: block;
+margin-left: auto;
+margin-right: auto;
+width: 20%;
+margin-bottom: 50px;
+margin-top: 50px;
+border: 2px solid #e069aa;
+padding: 3px; 
+width: 40%;}
+
+.thumb:hover{box-shadow: 0 0 3px 7px rgba(162, 232, 22, 0.5);}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #e07878;
+    text-align: center;
+  }
+li {margin-top: 60px;
+display: inline;
+border-right: 3px solid #bbdf8e;
+text-align: center;
+padding: 14px 20px;
+text-decoration: none;
+}
+li:last-child {
+    border-right: none;
+  }
+  
+  footer{ text-align: center;
+margin-top: 70px;}
+
+a:link {
+    color: rgb(234, 255, 234);
+    text-decoration: none;
+  }
